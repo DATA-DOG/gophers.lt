@@ -1,0 +1,26 @@
+<div class="sidebar">
+  <div class="container">
+    <div class="sidebar-about">
+      <h1 class="brand">
+        <a href="/">gophers.lt</a>
+      </h1>
+      <p class="lead"><a href="http://golang.org" title="golang">GO</a> user group.</p>
+    </div>
+
+    <ul class="sidebar-nav">
+      <li><a href="/post/">Posts</a> </li>
+      <li><a href="/about/">About</a> </li>
+
+      {{ range .Site.Menus.main }}
+        <li><a href="{{.Url}}"> {{ .Name }} </a></li>
+      {{end}}
+    </ul>
+
+    <a href="https://github.com/DATA-DOG"><i class="fa fa-github-square"></i></a>
+
+    <p>Copyright (c) 2014, gophers.lt; all rights reserved.</p>
+
+    <p>powered by <a href="http://gohugo.io/">Hugo</a></p>
+    <p>supported by <a href="http://www.datadog.lt/">DATA-DOG</a></p>
+  </div>
+</div>

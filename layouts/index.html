@@ -1,0 +1,15 @@
+{{ partial "head.html" . }}
+<body lang="en">
+  {{ partial "sidebar.html" . }}
+
+  <div class="content container">
+    <div class="posts">
+    {{ range first 10 .Data.Pages }}
+      {{ .Render "summary" }}
+    {{ end }}
+    </div>
+  </div>
+
+</body>
+</html>
+

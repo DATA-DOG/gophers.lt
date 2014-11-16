@@ -1,0 +1,18 @@
+.sidebar {
+  background: #300030;
+}
+
+h1.brand {
+  font-weight: 300;
+  margin-top: 0;
+}
+
+article .post-meta {
+  color: #34495e;
+  font-size: 80%;
+}
+
+article > footer {
+  text-align: right;
+  line-height: 3em;
+}
