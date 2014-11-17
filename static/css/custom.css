@@ -16,3 +16,17 @@ article > footer {
   text-align: right;
   line-height: 3em;
 }
+
+ul#list{
+  list-style: none;
+}
+
+#list>li>a {
+  display: table-cell;
+  padding: 0 .5em;
+}
+#list>li>.meta {
+  display: table-cell;
+  text-align: right;
+  width: 25%;
+}

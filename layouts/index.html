@@ -5,7 +5,9 @@
   <div class="content container">
     <div class="posts">
     {{ range first 10 .Data.Pages }}
-      {{ .Render "summary" }}
+      {{ if eq .Section "post" }}
+        {{ .Render "summary" }}
+      {{ end }}
     {{ end }}
     </div>
   </div>

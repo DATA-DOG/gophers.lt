@@ -6,4 +6,4 @@ Section: home
 
 ### About
 
-Page
+This is a home of gopher user group in Lithuania.
