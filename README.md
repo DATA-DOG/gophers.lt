@@ -12,6 +12,6 @@ Install the theme.
 
 Serve **gophers.lt**
 
-    hugo server --theme=hyde --buildDrafts
+    hugo server --theme=hyde --buildDrafts --watch
 
 
