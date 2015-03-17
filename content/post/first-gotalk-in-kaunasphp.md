@@ -6,8 +6,6 @@ Slug: first-gotalk-kaunas-php
 Title: "First gotalk in Kaunas PHP"
 ---
 
-### The first gotalk in Kaunas PHP
-
 We will consider a birth of gophers.lt golang user group started in Kaunas PHP meetup, since the
 gotalk introducing the user group was held there.
 

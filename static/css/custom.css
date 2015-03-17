@@ -46,6 +46,10 @@
   margin-bottom: 25px;
 }
 
+.sidebar i.fa {
+  font-size: 1.8em;
+}
+
 .sidebar-about h1.brand {
   margin-top: 0;
   font-weight: normal;
@@ -87,6 +91,19 @@ article.post header .meta {
 article.post footer {
   text-align: right;
   margin-top: 20px;
+}
+
+/**
+ * Links
+ */
+
+.content a {
+  color: #3F51B5; 
+}
+
+.content a:hover,
+.content a:focus {
+  color: #303F9F;
 }
 
 /**
@@ -140,6 +157,3 @@ figure > figcaption > h4 {
   font-size: 17px;
 }
 
-.sidebar i.fa {
-  font-size: 1.8em;
-}

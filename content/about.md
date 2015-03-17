@@ -5,8 +5,6 @@ Description: "Gopher community about page"
 Section: home
 ---
 
-### About
-
 This is a home of gopher user community in Lithuania.
 
 Since we know for sure that by 2017 most of the programs will be written in **go**, we have decided to
