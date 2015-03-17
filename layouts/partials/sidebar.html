@@ -1,10 +1,9 @@
 <div class="sidebar">
   <div class="container">
     <div class="sidebar-about">
-      <h1 class="brand">
-        <a href="/">gophers.lt</a>
-      </h1>
-      <p class="lead"><a href="http://golang.org" title="golang">GO</a> user group.</p>
+      <h1 class="brand"><a href="/">gophers.lt</a></h1>
+      <p class="lead"><a href="http://golang.org" title="golang">Go</a> language user group.</p>
+      
     </div>
 
     <ul class="sidebar-nav">
@@ -16,11 +15,20 @@
       {{end}}
     </ul>
 
-    <a href="https://github.com/DATA-DOG"><i class="fa fa-github-square"></i></a>
+    
+ 
+    <div class="sidebar-bottom">
+        <div class="social">
+            <a href="https://github.com/DATA-DOG">
+                <i class="fa fa-lg fa-github-square"></i>
+            </a>
+        </div>
 
-    <p>Copyright (c) 2014, gophers.lt; all rights reserved.</p>
+        <p>Powered by <a href="http://gohugo.io/">Hugo</a></p>
+        
+        <p>Sponsored by <a href="http://www.datadog.lt/">DATA DOG</a></p>
 
-    <p>powered by <a href="http://gohugo.io/">Hugo</a></p>
-    <p>supported by <a href="http://www.datadog.lt/">DATA-DOG</a></p>
+        <p class="copyright">&copy; {{.Site.Copyright}}</p>
+    </div>
   </div>
 </div>
