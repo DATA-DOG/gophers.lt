@@ -15,4 +15,10 @@ You can find it [here](http://gotalks.gediminasm.org/why-we-use-golang.slide).
 #### Community
 
 So far we are only starting to organize an user group. And will post all upcomming events even if it's only a beer meetup.
-Stay put and subscribe to the RSS feed.
+Stay put and subscribe to the [RSS feed](/index.xml), join us on [facebook](https://www.facebook.com/groups/1417574098545230/) or
+subscribe to our [mailing list](http://groups.google.com/group/golang-lithuania/subscribe).
+
+#### Plans
+
+We are planning to organize some events, give talks and based on the interest, maybe open a monthly conferences here in Kaunas
+DATA-DOG headquarters.
