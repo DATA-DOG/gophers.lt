@@ -46,6 +46,10 @@
   margin-bottom: 25px;
 }
 
+.sidebar-bottom .social a {
+  padding-right: 10px;
+}
+
 .sidebar i.fa {
   font-size: 1.8em;
 }
@@ -98,7 +102,7 @@ article.post footer {
  */
 
 .content a {
-  color: #3F51B5; 
+  color: #3F51B5;
 }
 
 .content a:hover,
