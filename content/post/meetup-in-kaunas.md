@@ -14,14 +14,21 @@ Tikimės tai padaryti kas mėnesiniu renginiu, suburiančių kuo daugiau **Go** 
 Žinoma laukiame visų, net ir pirmą kartą išgirdusių šią raidžių kombinaciją - su džiaugsmu
 supažindinsime su šia kalba visus besidominčius ir pagelbėsime visiems pradedantiesiems!
 Pristatysime jums porą pranešimų apie **Go**, o diskusijas pratęsime trečiajame "Republic" bare.
+
 Mokykimės ir tobulėkime kartu!
 
 ## Dėmesio
 
-Kas?
-Algirdas Matas - TBA
-Gediminas Morkevičius - TBA
+Kada? **2015 Lapkričio 26** dieną
 
-Kada? 2015 Lapkričio 26 dieną
-Kur? A. Jakšto g. 6, Kaunas (Kolpingo kolegija)
+Kur? **A. Jakšto g. 6, Kaunas (Kolpingo kolegija)**
+
+### Pranešimai
+
+- Algirdas Matas - TBA
+- Gediminas Morkevičius - **"You do not need a framework."**
+
+*You do not need a framework* - jums pilnai užtenka "standard library", kad neapsunkintumėte savęs
+įrankiais, kurie nuolat keičiasi ir nėra baigtiniai. Naudokite komponentus, o ne abstrakcijas.
+
 Nori būti pranešėjas? Susisiek.
