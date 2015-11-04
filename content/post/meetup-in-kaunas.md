@@ -8,6 +8,8 @@ Title: "Sveiki gopheriai!"
 
 Sveiki gopheriai!
 
+{{% img src="/posts/first-meetup/gophers-wrench.jpg" class="gophers" title="Gopher meet-up" %}}
+
 Su džiaugsmu norime pranešti, kad rengiame pirmąjį gopherių meet-up’ą Kaune!
 
 Tikimės tai padaryti kas mėnesiniu renginiu, suburiančių kuo daugiau **Go** entuziastų.
