@@ -21,7 +21,7 @@ Mokykimės ir tobulėkime kartu!
 
 ## Dėmesio
 
-Kada? **2015 Lapkričio 26** dieną
+Kada? **2015 Lapkričio 26** dieną **19:00** valandą.
 
 Kur? **A. Jakšto g. 6, Kaunas (Kolpingo kolegija)**
 
