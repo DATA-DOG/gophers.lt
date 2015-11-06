@@ -27,10 +27,16 @@ Kur? **A. Jakšto g. 6, Kaunas (Kolpingo kolegija)**
 
 ### Pranešimai
 
-- Algirdas Matas - TBA
+- Algirdas Matas - **"Past, present and future(of Go)"**
 - Gediminas Morkevičius - **"You do not need a framework."**
+
+*Past, present and future(of Go)* - Ir kam gi reikalinga dar viena programavimo kalba?
+Kas yra ir kam naudingas Go? Nuo ko man pradėti?
+Šitie ir kiti jums rūpimi klausimai bus atsakyti.
 
 *You do not need a framework* - jums pilnai užtenka "standard library", kad neapsunkintumėte savęs
 įrankiais, kurie nuolat keičiasi ir nėra baigtiniai. Naudokite komponentus, o ne abstrakcijas.
 
 Nori būti pranešėjas? Susisiek.
+
+
