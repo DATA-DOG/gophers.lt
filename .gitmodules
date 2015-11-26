@@ -1,6 +1,3 @@
-[submodule "themes/hyde"]
-	path = themes/hyde
-	url = https://github.com/spf13/hyde.git
-[submodule "themes/herring-cove"]
-	path = themes/herring-cove
-	url = https://github.com/spf13/herring-cove.git
+[submodule "themes/hyde-x"]
+	path = themes/hyde-x
+	url = https://github.com/zyro/hyde-x

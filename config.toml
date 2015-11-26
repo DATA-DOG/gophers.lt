@@ -1,7 +1,7 @@
 baseurl = "http://gophers.lt"
 languageCode = "en-us"
 title = "Go language user group"
-copyright = "2015 gophers.lt, all rights reserved."
+copyright = "2014-2015 gophers.lt, all rights reserved."
 MetaDataFormat = "yaml"
 
 [Author]
