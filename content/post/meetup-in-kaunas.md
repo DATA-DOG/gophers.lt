@@ -39,4 +39,8 @@ Kas yra ir kam naudingas Go? Nuo ko man pradėti?
 
 Nori būti pranešėjas? Susisiek.
 
+## Iki kito karto ;)
 
+{{% img src="/posts/first-meetup/algis.jpg" class="gophers" title="Algirdas speeks about past, present and future" %}}
+
+{{% img src="/posts/first-meetup/everyone.jpg" class="gophers" title="Gophers are watching closely" %}}
