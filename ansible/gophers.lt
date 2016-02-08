@@ -1,4 +1,4 @@
 # vi: set ft=dosini ts=2 sw=2 sts=2 :
 
-gophers.lt ansible_ssh_host=blog ansible_ssh_user=gedi
+gophers.lt ansible_host=blog ansible_user=gedi ansible_port=6969 ansible_connection=ssh
 

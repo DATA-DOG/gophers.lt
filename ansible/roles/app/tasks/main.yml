@@ -1,20 +1,20 @@
 ---
 - name: install nginx site
   template: src=nginx.conf.j2 dest=/etc/nginx/sites-available/{{ hostname }}
-  sudo: yes
+  become: yes
   notify:
     - nginx restart
   tags: [ nginx ]
 
 - name: ensure nginx vhost enabled
   file: src=/etc/nginx/sites-available/{{ hostname }} dest=/etc/nginx/sites-enabled/{{ hostname }} state=link
-  sudo: yes
+  become: yes
   notify:
     - nginx restart
   tags: [ nginx ]
 
 - name: supervisor configuration
-  sudo: yes
+  become: yes
   template: src=supervisor.ini.j2 dest=/etc/supervisor/conf.d/{{ hostname }}.ini
   tags: [ app ]
 
@@ -50,6 +50,6 @@
   tags: [ app ]
 
 - name: ensure restarted and supervised
-  sudo: yes
+  become: yes
   action: supervisorctl name={{ hostname }} state=restarted
   tags: [ app ]
