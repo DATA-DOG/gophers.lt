@@ -4,14 +4,24 @@ Golang user group in Lithuania.
 
 ## Install
 
-First, install [hugo](https://github.com/spf13/hugo/releases). And put it in your **$PATH**.
-
-Install the theme.
-
-    git submodule update --init
-
-Serve **gophers.lt**
 
     hugo server --theme=hyde-x --buildDrafts --watch
 
+First, install [hugo](https://github.com/spf13/hugo/releases). And put it in your **$PATH**.
 
+Install the theme and check necessary dependencies.
+
+    make deps
+
+Update config:
+
+    cp config.toml.dist config.toml
+
+Serve **gophers.lt** on **:1313** port:
+
+    make
+
+## Release
+
+    make release
+    ansible-playbook -i ansible/gophers.lt ansible/playbook.yml

@@ -1,0 +1,5 @@
+---
+# provision and deploy frontends
+- hosts: gophers.lt
+  roles:
+    - { role: app }
