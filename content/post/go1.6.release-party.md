@@ -13,8 +13,7 @@ dear gopher friends decided to throw a warm welcome with a few talks.
 
 ## Venue
 
-We are sure the event will be on **February 17-th** but location and time is still pending. This
-post will be updated as soon as we are aware about it.
+The event will be on **February 17-th at VU MIF, Naugarduko st. 24**.
 
 ## Schedule
 
