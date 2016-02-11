@@ -13,7 +13,7 @@ dear gopher friends decided to throw a warm welcome with a few talks.
 
 ## Venue
 
-The event will be on **February 17-th at VU MIF, Naugarduko st. 24**.
+The event will be on **February 17-th at VU MIF, Naugarduko st. 24** auditorium **203** at **18:30**
 
 ## Schedule
 
@@ -21,7 +21,7 @@ The schedule is also being discussed, you can track the [discussion](https://git
 on github.
 
 1. Gediminas Morkevicius - **"Acceptance and integration testing with GO"**
-2. pending
+2. Justinas Stankevičius - **"What’s new in Go 1.6"**
 
 *Acceptance and integration testing with GO* - Behavior driven development (BDD) testing and tools for golang.
 Why should you care about it?
