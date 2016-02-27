@@ -3,6 +3,8 @@ languageCode = "en-us"
 title = "Go language user group"
 copyright = "2014-2016 gophers.lt, all rights reserved."
 MetaDataFormat = "yaml"
+deploy_date = "somedate"
+deploy_user = "someuser"
 
 [Author]
-    name = "DATA-DOG team"
+    name = "golang-lt team"
