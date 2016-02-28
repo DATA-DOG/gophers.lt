@@ -2,6 +2,7 @@
 date: "2015-11-02T21:27:16+02:00"
 Description: "Sveiki gopheriai susitikimas Kaune"
 Section: post
+tags: ["kaunas", "lithuania", "golang", "community", "meetup"]
 Slug: hello-meetup-in-kaunas
 Title: "Sveiki gopheriai!"
 ---

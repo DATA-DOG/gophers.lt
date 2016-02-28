@@ -23,5 +23,5 @@ Serve **gophers.lt** on **:1313** port:
 
 ## Release
 
-    make release
-    ansible-playbook -i ansible/gophers.lt ansible/playbook.yml
+Everytime a change is made to **master** it will be auto deployed to
+**gophers.lt** at the moment.

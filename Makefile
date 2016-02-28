@@ -1,10 +1,7 @@
-.PHONY: run release deps
+.PHONY: run deps
 
 run:
 	hugo server --theme=hyde-x --buildDrafts --watch
-
-release:
-	tar --exclude-from=.tarignore --exclude-vcs -czf ansible/app.tar.gz .
 
 deps:
 	@$(call installed,curl)
