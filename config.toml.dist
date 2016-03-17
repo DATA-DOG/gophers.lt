@@ -4,5 +4,6 @@ title = "Golang Lithuania community"
 copyright = "2014-2016 golang-lt community, all rights reserved."
 MetaDataFormat = "yaml"
 
-[Author]
-    name = "golang-lt team"
+[params]
+    updatedBy = "golang-lt"
+    updatedAt = "2016-03-17T10:14:56+02:00"
