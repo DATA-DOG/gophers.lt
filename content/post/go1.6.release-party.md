@@ -11,6 +11,8 @@ Hi all gophers in Lithuania!
 As we all probably have heard about **1.6** release of **go** coming soon on February. Some of our
 dear gopher friends decided to throw a warm welcome with a few talks.
 
+<!--more-->
+
 ## Venue
 
 The event will be on **February 17-th at VU MIF, Naugarduko st. 24** auditorium **203** at **18:30**

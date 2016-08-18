@@ -10,6 +10,8 @@ Title: "First gotalk in Kaunas PHP"
 We will consider a birth of gophers.lt golang user group started in Kaunas PHP meetup, since the
 gotalk introducing the user group was held there.
 
+<!--more-->
+
 The talk was an introduction to **golang** and the main features: concurrency primitives, interfaces and composition.
 You can find it [here](http://gotalks.gediminasm.org/why-we-use-golang.slide).
 

@@ -15,6 +15,8 @@ We have 3 speakers already if you have something to share you are more than welc
 Let's form vibrant community where we can learn & share !
 
 
+<!--more-->
+
 #### Links:
  - [Meetup.com](http://www.meetup.com/Vilnius-Golang/events/225531544)
  - [ICAL](webcal://www.meetup.com/Vilnius-Golang/events/ical) add to your calendar

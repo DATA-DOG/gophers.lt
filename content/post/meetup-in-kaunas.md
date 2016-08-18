@@ -13,6 +13,8 @@ Sveiki gopheriai!
 
 Su džiaugsmu norime pranešti, kad rengiame pirmąjį gopherių meet-up’ą Kaune!
 
+<!--more-->
+
 Tikimės tai padaryti kas mėnesiniu renginiu, suburiančių kuo daugiau **Go** entuziastų.
 Žinoma laukiame visų, net ir pirmą kartą išgirdusių šią raidžių kombinaciją - su džiaugsmu
 supažindinsime su šia kalba visus besidominčius ir pagelbėsime visiems pradedantiesiems!
